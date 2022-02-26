@@ -1,0 +1,10 @@
+.container {
+	margin: 80px auto;
+	width: 800px;
+}
+
+.container h1 {
+	text-align: center;
+	color: rgb(4, 90, 33);
+	text-shadow: 1px, 1px, 10px, black;
+}
